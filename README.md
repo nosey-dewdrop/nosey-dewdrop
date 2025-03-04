@@ -10,7 +10,7 @@ I want to live in an island in the future, sing songs with animals out there. Ma
 📚 I read a lot. Really, a lot.  I have a room for my books - a Damumya library. I like reading novels, philosophy. 📖
 I lost my only chance of happiness in such a pragmatic world with idealistic soul :D (Cioran, Schopenhauer, Nietzsche, Kafka, Goethe, Camus recommended. Also Radiohead and Pink Floyd in lyrics.) 🌌
 
-💃🏻 I am 22 but I spent 8-9 years of my life fighting with cancer, taking chemos alone in my room only hoping to survive for tomorrow. So, until I got to the university I had no idea about how cruel, fake was the world I needed to intervene with for a degree. 🎵
+💃🏻 I am 22 but I spent 8-9 years of my life fighting with cancer, taking chemos alone in my room only hoping to survive for tomorrow. So, until I got to the university I had no idea about how cruel, fake was the world I used to dream!!! 🎵 
 
 My favorite artists are Dostoevsky, Beethoven, Prokofiev, Shakespeare, Moliere, David Gilmour, Chopin. 💐 I love Pink Floyd, Radiohead, King Crimson, Led Zeppelin and many more bands. Also, I don't say such things to imprpess girls. People who want to impress girls imitate bohemian, absurd and bizarre people like us!!!!!! :=)
 

@@ -6,9 +6,8 @@ I am DAMLA I am a student at BILKENT UNIVERSITY - COMPUTER SCIENCE
 👩🏻‍💻 I love computer science. I like it because I don't like people who are rude, selfish, egoistic. So, I want to rely on myself only, work from anywhere I want and in anytime I want :=)
 
 I listen to progressive rock and classical music. Not only because I am such an elitist, I enjoy complex harmonies and unexpected parts in their music. I listen to anything that is artistic. I don't understand about genres. Music is in our hearts, I love music.🎹🎶  
-
 📚 I read a lot. Really, a lot. I have a room for my books - a Damumya library. I like reading novels, philosophy. 📖
-All in all, I have lost my only chance of happiness in such a pragmatic world with idealistic soul. So, art is the only place for me to dream. :=) 🌌
+All in all, I have lost my only chance of happiness in such a pragmatic world with an idealistic soul. So, art is the only place for me to dream. :=) 🌌
 
 My favorite artists are Dostoevsky, Beethoven, Shakespeare, David Gilmour. 💐 I love Pink Floyd, Radiohead, King Crimson, Led Zeppelin. 
 I like crochetting. 

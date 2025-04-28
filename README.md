@@ -1,7 +1,8 @@
 I am DAMLA I am a student at BILKENT UNIVERSITY - COMPUTER SCIENCE 
 (THANKS GOD I AM STUDYING COMPUTER SCIENCE!!!)
 
-💻 I am learning Java, Python, CSS and HTML. I like coding because mistakes are always rewarding me with more knowledge. I got interested in AI when I was a child. I used to play League of Legends since 2014 and AI bot as good as me really surprised me. 
+💻 I am learning Java, Python, CSS and HTML. (FOR NOW!) 
+I like coding because mistakes are always rewarding me with more knowledge. I got interested in AI when I was a child. I used to play League of Legends since 2014 and AI bot as good as me really surprised me. 
 
 👩🏻‍💻 I love computer science. I like it because I don't like people who are rude, selfish, egoistic. So, I want to rely on myself only, work from anywhere I want and in anytime I want :=)
 

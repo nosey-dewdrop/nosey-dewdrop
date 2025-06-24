@@ -1,5 +1,6 @@
 i am DAMLA & i am a student at BILKENT UNIVERSITY - COMPUTER SCIENCE 
-i am learning java, python, css and html. (FOR NOW!) 
+i am learning java, python, css and html. (FOR NOW!) + i am learning swift and cpp.
+
 beyond technical skills, i am such a bizarre person. 
 and as far as i've seen, people are really strange. that's why i only want to trust myself to do a job for a living.
 

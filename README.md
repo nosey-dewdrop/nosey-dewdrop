@@ -8,15 +8,12 @@ i am DAMLA & i am a student at BILKENT UNIVERSITY - COMPUTER SCIENCE
 
 👩🏻‍💻 i like exploring creative uses of technology.
 
-our job comes from "ingenium". most likely, "imagine" + "-er" :=) 
-
-ingenium -> engine -> engineer
+our job comes from "ingenium". most likely, "imagine" + "-er" :=) ingenium -> engine -> engineer
 
 beyond technical skills, i am such a bizarre person. i believe that this is an important virtue in 21st century where codes can code. 
 yet they cannot produce something bizarre, unseen, uninvented. i wake up, drink coffee, read, listen to music, play music, lift, cardio and code. 
 
-
-actually, engineering turned out to be mein kampf. i have to prove the world that "emotional people are creative and smart" until my dying breath.
+actually, engineering turned out to be MEIN KAMPF. i have to prove the world that "emotional people are creative and smart" until my dying breath.
 we are just kind and pure hearted from our nature not because we are idiots - i got into medicine and computer science. yet i was about to die from cancer in these years. still, i fought for my honor and dreams.- i've been through death and ruination. I WILL, AGAIN
 
 and as far as i've seen, people are really strange - machines are honest.

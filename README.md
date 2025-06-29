@@ -1,4 +1,4 @@
-👩🏻‍💻💃🏻 i am <u> DAMLA </u> & i am a student at BILKENT UNIVERSITY - COMPUTER SCIENCE ☀️🎵
+🦋 i am <u> DAMLA </u> & i am a student at BILKENT UNIVERSITY - COMPUTER SCIENCE 🌻
 ---
 
 | 👩🏻‍💻 learning carefully: | 💃🏻 learning for fun:      | 🐞 progress: |

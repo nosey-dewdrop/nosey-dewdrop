@@ -14,4 +14,5 @@ still, they cannot produce something bizarre, unseen.  i wake up, drink coffee, 
 ---
 there is nothing important for me in upcoming few years 🐞 i'll only lock in and study. 🎹👩🏻‍💻
 🌱 death inspires me. i know, i don't have much time left (cancer-brain) so, there is nothing to lose really :D 👩🏻‍💻
-in the future: if i don't have kids, ok. if i won't find love, ok. even if i offer my soul for it, they won't be happening already. there is no future. i can be dead by tomorrow. everyone can be actually, i just know it. i accepted it. i am just living for fun :D eveything is all right :=) 💐
+in the future, i used to dream for many things... love, kids, cheer. but then i figured it out that, even if i offer my sould for it, they won't be happening already. there is no future. i want to be rich, but what for? nothing. i want to buy nothing. i need nothing. maybe to afford new medical tech or a fancy grave? hahahahhahaaaa
+anyways, i am just living for fun :D ***any way the wing blows*** 💐

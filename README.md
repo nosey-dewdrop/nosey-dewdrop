@@ -1,9 +1,9 @@
 🦋 i am <u> DAMLA </u> & i am a student at BILKENT UNIVERSITY - COMPUTER SCIENCE 🌻
 ---
 
-| 👩🏻‍💻 learning carefully: | 💃🏻 learning for fun:      | 🐞 progress: | future 🌈|
-| ------------------ | ----------------------- | --------- | ---|
-| java & python       | java-script, html, css | cpp, swift| kotlin |
+| 👩🏻‍💻 learning carefully: | 💃🏻 learning for fun:      
+| ------------------ | ----------------------- | 
+| java & cpp & python       | javascript, html, css | 
 
 ## 👩🏻‍💻 i like exploring creative uses of technology. ##
 

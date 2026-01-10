@@ -12,5 +12,4 @@ still, they cannot produce something bizarre, unseen.
 
 *coding is fun!!!!!*
 ---
-there is nothing important for me in upcoming few years 🐞 death inspires me. i know, i don't have much time left (cancer-brain) so, there is nothing to lose really :D 👩🏻‍
-anyways, i am living for fun :D 
+there is nothing important for me in upcoming few years 🐞 death inspires me. i know, i don't have much time left (cancer-brain) so, there is nothing to lose really :D 

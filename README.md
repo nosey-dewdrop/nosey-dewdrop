@@ -15,7 +15,7 @@ beyond technical skills, i am such a *bizarre* person. i believe that this is an
 here is my personal schedule march - september:
 - dewdrop is events platform. mvp can be done. 🌊
 - ladybug will take ages but mvp can be done. 🐞
-- damlacik a personal community platform. i am becoming a youtuber. i believe i have so much to say, but my innocencec have been used up to wrong people. it might take some weeks. database should be secured, else i will be linçed like tosuncuk from çiftlik bank for stealing (leaking) peoples data. 🌷
+- damlacik a personal community platform. i am becoming a youtuber. i believe i have so much to say, but my innocence have been used up to wrong people. it might take some weeks. database should be secured, else i will be linçed like tosuncuk from çiftlik bank for stealing (leaking) peoples data. 🌷
 - everlong will be a huge letter platform. there is a lot to implement. will take weeks. maybe whole semester. 💌
 - lady fantasy is for tarot, lenormand, blogs using claude api and fal.ai api - finished but needs to be polished.💫
 - moonlight is easy, astology plaform. i love watching moon phases. 🌙

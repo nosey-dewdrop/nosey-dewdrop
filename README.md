@@ -12,12 +12,12 @@ beyond technical skills, i am such a *bizarre* person. i believe that this is an
 --- 
 
 here is my personal schedule march - september:
-- dewdrop is events platform. mvp can be done. 🌊
-- ladybug will take ages but mvp can be done. 🐞
-- damlacik a personal community platform. i am becoming a youtuber. i believe i have so much to say, but my innocence have been used up to wrong people. it might take some weeks. database should be secured, else i will be linçed like tosuncuk from çiftlik bank for stealing (leaking) peoples data. 🌷
+- dewdrop is events platform. mvp can be done. 🌊 my name is damla su, in english drop, drip, dewdrop, waterdrop. inspo is communities are like an ocean, nevertheless we are all individual drops. 
+- ladybug will take ages but mvp can be done. 🐞 while working as a ta for cs115, i found out that people we not learning by writing code. it was teaching when you were trying to find and correct a logical error, which is silent but more destructive for the code.
+- damlacik a personal community platform. i am becoming a youtuber. i believe i have so much to say, but my innocence have been used up to wrong people. it might take some weeks. database should be secured, else i will be linçed like tosuncuk from çiftlik bank for stealing (leaking) peoples data. 🌷 for building a community. still on planning.
 - everlong will be a huge letter platform. there is a lot to implement. will take weeks. maybe whole semester. 💌
-- lady fantasy is for tarot, lenormand, blogs using claude api and fal.ai api - finished but needs to be polished.💫
-- moonlight is easy, astology plaform. i love watching moon phases. 🌙
+- lady fantasy is for tarot, lenormand, blogs using claude api and fal.ai api - finished but needs to be polished.💫 it simply uses fortune telling with prompts. 
+- moonlight is easy, astology plaform. i love watching moon phases. 🌙 moon phases, horary added.
 
 why so much project, plan, dream? i don't want to work in a job to fullfill someone's dream. i have nothing to lose in this short lifetime due to cancer. i don't have kids, probably i never will due to risks in pregnancy: growth hormones, organ failures. i dreamed to adopt a baby. but i might be dead by the time my baby is grown. i don't want to do this to an innocent baby. life is not fair to some of us. maybe in another life :=)
 whatever, here is only me doing projects.

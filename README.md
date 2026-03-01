@@ -2,6 +2,7 @@
 ---
 💫🌷 learning :        
 java & cpp & python & javascript
+
 (i was a ta for cs115, i am confident in python. i started to learn it when i was in med. so in 2022. i learn java for dsa, cpp for memory management. js for personal projects which i deployed in web. i want to learn swing!)
 
 <br> **👩🏻‍💻 i like exploring creative uses of technology.**

@@ -25,6 +25,5 @@ whatever, here is only me doing projects.
 edit: i don't agree with many coders and with my university who are still trying to fight with ai. ai is about to start a war and we are still learning actionListeners in one of the most privileged universities in Turkey. i don't want to mention that we learn java swing like in 1990's to conserve my reputation.
 
 there is no point we are still trying to fight with ai in traditional ways of coding. coding is over. imagination is not. project managing is not, for now. if you are a megamind who can beat computers which are 10^1000 faster than you; you can beat ai, develop ai as it is promised in bilkent. then you must learn how to use it better than anyone else.
-like people accuse me of using so much ai. dude, i have been in your ages. ai couldn't do an arraylist lab few years ago. now you can write 60.000 lines of code in a day which a human cannot write even in a year before.
+like people accuse me of using so much ai. dude, i have been in your ages. ai couldn't do an arraylist lab few years ago. now you can write 60.000 lines of code in a day which a human cannot write even in a year.
 
----

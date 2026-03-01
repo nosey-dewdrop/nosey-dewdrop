@@ -18,6 +18,7 @@ here is my personal schedule march - september:
 - everlong will be a huge letter platform. there is a lot to implement. will take weeks. maybe whole semester. 💌
 - lady fantasy is for tarot, lenormand, blogs using claude api and fal.ai api - finished but needs to be polished.💫 it simply uses fortune telling with prompts. 
 - moonlight is easy, astology plaform. i love watching moon phases. 🌙 moon phases, horary added.
+- lala-retro: i am allergic to something but what. will be simple. 🦢
 
 why so much project, plan, dream? i don't want to work in a job to fullfill someone's dream. i have nothing to lose in this short lifetime due to cancer. i don't have kids, probably i never will due to risks in pregnancy: growth hormones, organ failures. i dreamed to adopt a baby. but i might be dead by the time my baby is grown. i don't want to do this to an innocent baby. life is not fair to some of us. maybe in another life :=)
 whatever, here is only me doing projects.

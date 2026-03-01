@@ -1,14 +1,12 @@
 🦋 i am <u> DAMLA </u> & i am a student at BILKENT UNIVERSITY - COMPUTER SCIENCE 🌻
 ---
+👩🏻‍💻 learning :        
+java & cpp & python & javascript
+(i was a ta for cs115, i am confident in python. i started to learn it when i was in med. so in 2022. i learn java for dsa, cpp for memory management. js for personal projects which i deployed in web. i want to learn swing!)
 
-| 👩🏻‍💻 learning carefully: | 💃🏻 learning for fun:      
-| ------------------ | ----------------------- | 
-| java & cpp & python       | javascript, html, css | 
-
-## 👩🏻‍💻 i like exploring creative uses of technology. ##
-
+<br> **👩🏻‍💻 i like exploring creative uses of technology.**
 beyond technical skills, i am such a *bizarre* person. i believe that this is an important virtue in 21st century where codes can code :D
-<br>*coding is fun!!!!!*
+*coding is fun!!!!!*
 
 --- 
 

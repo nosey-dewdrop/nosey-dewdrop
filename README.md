@@ -20,4 +20,4 @@ here is my personal schedule march - september:
 - everlong will be a huge letter platform. there is a lot to implement. will take weeks. maybe whole semester. 💌
 - lady fantasy is for tarot, lenormand, blogs using claude api and fal.ai api - finished but needs to be polished.💫 it simply uses fortune telling with prompts. 
 - moonlight is easy, astology plaform. i love watching moon phases. 🌙 moon phases, horary added.
-- lala-retro: i am allergic to something but what. will be simple. 🦢
+- lala-retro: i am allergic to something and this shows what. will be simple. 🦢

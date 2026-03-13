@@ -24,5 +24,5 @@ here is my personal schedule march - september:
 - moonlight is easy, astology plaform. i love watching moon phases. 🌙 moon phases, horary added.
 - lala-retro: i am allergic to something and this shows what. will be simple. 🦢
 - medical case: when i finish engineering, and if i am still alive and not dead of cancer, i will study medicine in muğla... akyaka... and it is literally on a mountain. meaning it doesn't have great range of cases as much as universities in big cities such as ankara, izmir... this is a platform which generates cases. when i was in medical school, problem based learning was such a privileged class.
-- coffee-menu: i have done implementing it before i was a vibecoder but a barista!!!! does not sounds incredible now but i want to finish it. i have one more programming idea for my future coffee shop. but i don't have money to open it only at this moment! hahhaaha
+- [x] coffee-menu: i have done implementing it before i was a vibecoder but a barista!!!! does not sounds incredible now but i want to finish it. i have one more programming idea for my future coffee shop. but i don't have money to open it only at this moment! hahhaaha
 

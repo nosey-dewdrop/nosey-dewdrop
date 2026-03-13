@@ -23,3 +23,4 @@ here is my personal schedule march - september:
 - lady fantasy is for tarot, lenormand, blogs using claude api and fal.ai api - finished but needs to be polished.💫 it simply uses fortune telling with prompts. 
 - moonlight is easy, astology plaform. i love watching moon phases. 🌙 moon phases, horary added.
 - lala-retro: i am allergic to something and this shows what. will be simple. 🦢
+- medical case: when i finish engineering, and if i am still alive and not dead of cancer, i will study medicine in muğla... akyaka... and it is literally on a mountain. meaning it doesn't have great range of cases as much as universities in big cities such as ankara, izmir... this is a platform which generates cases. when i was in medical school, problem based learning was such a privileged class.

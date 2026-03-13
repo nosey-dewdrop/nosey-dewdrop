@@ -14,6 +14,7 @@ beyond technical skills, i am such a *bizarre* person. i believe that this is an
 --- 
 
 here is my personal schedule march - september:
+[x] linçmatik - it is live i bought tokens. you can mentally practice yourself. slay!!!
 - dewdrop is events platform. mvp can be done. 🌊 my name is damla su, in english drop, drip, dewdrop, waterdrop. inspo is communities are like an ocean, nevertheless we are all individual drops. 
 - ladybug will take ages but mvp can be done. 🐞 while working as a ta for cs115, i found out that people were not really learning by writing code. it was teaching when you were trying to find and correct a logical error, which is silent but more destructive for the code.
 - damlacik a personal community platform. i am becoming a youtuber. i believe i have so much to say, but my innocence have been used up to wrong people. it might take some weeks. database should be secured, else i will be linçed like tosuncuk from çiftlik bank for stealing (leaking) peoples data. 🌷 for building a community. still on planning.

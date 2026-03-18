@@ -11,4 +11,3 @@ https://nosey-dewdrop.github.io/
 beyond technical skills, i am such a *bizarre* person. i believe that this is an important virtue in 21st century where codes can code :D
 *coding is fun!!!!!*
 
----

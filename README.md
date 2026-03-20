@@ -12,4 +12,4 @@ beyond technical skills, i am such a *bizarre* person. i believe that this is an
 *coding is fun!!!!!*
 
 --- 
-i use three flags for my repositories:<br>✨ - repos about me. portfolio, readme, codestack <br>💐 - finished projects<br>🐝 - working on. busy bee
+i use three flags for my repositories:<br>💐 - finished projects<br>🐝 - working on. busy bee<br>✨ - repos about me. portfolio, readme, codestack 

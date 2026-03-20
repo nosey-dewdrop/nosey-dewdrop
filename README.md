@@ -13,6 +13,9 @@ beyond technical skills, i am such a *bizarre* person. i believe that this is an
 
 --- 
 i use three flags for my repositories:
+
 ✨ - repos about me. portfolio, readme, codestack 
+
 💐 - finished projects
+
 🐝 - working on. busy bee

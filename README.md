@@ -20,4 +20,3 @@ please wish me the best. i sleep 3-5 hours on 72 hours period and code, vibecode
 🌷 this april i'll be polisihng my repositories. my coded assistant gave me tasks. i will severe ties with my projects. no new things.         
 🎀 next act is, i will be writing posts to my 1,500 dear connections about how cool my projects are :D       
 
-💐 and i am becoming a youtuber. i am skinny, thin, i have pretty skin and i am really nice, cute. ai really cannot take over authenticity. being nice, cool, smart, cute is irreplacable. who can get themselves these :=)

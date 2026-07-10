@@ -6,7 +6,7 @@ all in all, i am the great {vibecoder}.
 
 i used to write clean code. i learned front-end-design at 11. i was raised with stackoverflow. 
 but you know it's not the same as it was. i vibecode now.
-</u>"why, Mr. Anderson? why, why? why do you do it? why, why get up? why keep fighting?" and turkish idiom, one who argues with his ass will shit in his pants <3 </u> ai is here. it is going nowhere when we close our eyes.
+<br>"why, Mr. Anderson? why, why? why do you do it? why, why get up? why keep fighting?" <br>and turkish idiom, one who argues with his ass will shit in his pants <3 <br> ai is here. it is going nowhere when we close our eyes??????*
 
 https://damlahelloworld.github.io/
 

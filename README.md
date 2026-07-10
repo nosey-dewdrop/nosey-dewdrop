@@ -6,7 +6,7 @@ all in all, i am the great {vibecoder}.
 
 i used to write clean code. i learned front-end-design at 11. i was raised with stackoverflow. 
 but you know it's not the same as it was. i vibecode now.
-*"why? why do you persist?" :=)*
+"why, Mr. Anderson? why, why? why do you do it? why, why get up? why keep fighting?"
 
 https://damlahelloworld.github.io/
 

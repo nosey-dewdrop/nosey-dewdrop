@@ -4,7 +4,6 @@ i used to write clean code between 2020-25. i learned front-end-design at 11. i 
 
 https://damlahelloworld.github.io/
 
-**👩🏻‍💻 i like exploring creative uses of technology.**
-i am such a *bizarre* person. i believe that this is an important virtue in 21st century where codes can code :D
+21st century informatik girl
 
 

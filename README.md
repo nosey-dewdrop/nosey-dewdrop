@@ -1,11 +1,11 @@
 🦋 i am <u> DAMLA </u> & i am a student at BILKENT UNIVERSITY - COMPUTER SCIENCE 🌻
 ---
 💫🌷 learning :        
-java & cpp & python & javascript & cloud 
+java & cpp & python & javascript & cloud.
 all in all, i am the great {vibecoder}. 
 
 i used to write clean code. i learned front-end-design at 11. i was raised with stackoverflow. 
-but you know it's now the same as it was. 
+but you know it's not the same as it was. 
 *"why? why do you persist?" :=)*
 
 https://damlahelloworld.github.io/

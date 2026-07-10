@@ -5,7 +5,7 @@ java & cpp & python & javascript & cloud.
 all in all, i am the great {vibecoder}. 
 
 i used to write clean code. i learned front-end-design at 11. i was raised with stackoverflow. 
-but you know it's not the same as it was. 
+but you know it's not the same as it was. i vibecode now.
 *"why? why do you persist?" :=)*
 
 https://damlahelloworld.github.io/

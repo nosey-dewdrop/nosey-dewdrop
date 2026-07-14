@@ -3,4 +3,4 @@ i used to write clean code between 2020-25. i learned front-end-design at 11. i 
 
 https://damlahelloworld.github.io
 
-beyond technical skills, i am such a *bizarre* person. i believe that this is an important virtue in 21st century where codes can code :D ai doesn't go when you close your eyes. people should understand basic things. you are good at something and people are good at other things. there is no point acting other roles.  don't waste your life to get a b- instead c+. you won't be going to stanford with 2.8 gpa anyways. do something valuable to you. in my opinion
+beyond technical skills, i am such a *bizarre* person. i believe that this is an important virtue in 21st century where codes can code :D 

@@ -6,3 +6,5 @@ https://nosey-dewdrop.github.io
 
 
 vi veri veniversum vivus vici
+
+1-16 july: 17,2b tokens, 138 hours 

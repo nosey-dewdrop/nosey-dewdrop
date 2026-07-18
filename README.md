@@ -7,4 +7,4 @@ https://nosey-dewdrop.github.io
 
 vi veri veniversum vivus vici
 
-1-16 july: 17,2b tokens, 138 hours 
+i always spend a lot time on ui-ux design. i am not a tech bro solely, i see cs as an art of maths and logic. so, even in my most complex projects there are lots of different html files and design pivots.

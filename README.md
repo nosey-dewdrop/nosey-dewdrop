@@ -5,7 +5,7 @@ portfolio: https://noseydewdrop.com <br>blog: coming soon
 
 my repos are private now but the products are live. (286 hours & 44.7B tokens :D)
 
-### live on the web, complex designs, real engineering
+### complex designs, real engineering
 
 - **stitchu** - get a sewable pattern by photo or prompt. cpp, wasm, vision. [stitchu.noseydewdrop.com](https://stitchu.noseydewdrop.com)
 - **gymgyme** - computer vision trainer in the browser, counts and scores your reps. cpp, wasm, mediapipe. [gymgyme.noseydewdrop.com](https://gymgyme.noseydewdrop.com)

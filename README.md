@@ -5,12 +5,14 @@ portfolio: https://noseydewdrop.com <br>blog: coming soon
 
 my repos are private now but the products are live. (286 hours & 44.7B tokens :D)
 
-### live on the web
+### live on the web, complex designs, real engineering
 
 - **stitchu** - get a sewable pattern by photo or prompt. cpp, wasm, vision. [stitchu.noseydewdrop.com](https://stitchu.noseydewdrop.com)
 - **gymgyme** - computer vision trainer in the browser, counts and scores your reps. cpp, wasm, mediapipe. [gymgyme.noseydewdrop.com](https://gymgyme.noseydewdrop.com)
 - **ir-globe** - 3d globe of international relations, live news, public benchmark. i made it for a friend who loves world politics. html, ml. [ir-globe.noseydewdrop.com](https://ir-globe.noseydewdrop.com)
 - **musical-improvisation-tool** - play a few notes, it tells you the scale so you can improvise. html. [musicimprov.noseydewdrop.com](https://musicimprov.noseydewdrop.com)
+
+### some wrappers i've made for fun:
 - **kisalafinuzunu** - turkish word game, denizde kum bende laf. typescript. [kisalafinuzunu.noseydewdrop.com](https://kisalafinuzunu.noseydewdrop.com)
 - **seviyorsevmiyor** - reads the subtext of a chat, tone and who wants it more. on device model. [seviyorsevmiyor.noseydewdrop.com](https://seviyorsevmiyor.noseydewdrop.com)
 - **calicocat** - 870+ exercises as a wall of colored words by body region, offline. javascript. [calicocat.noseydewdrop.com](https://calicocat.noseydewdrop.com)

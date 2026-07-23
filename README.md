@@ -1,12 +1,8 @@
-<u> DAMLA </u> 
-
 i used to write clean code between 2020-25. i learned front-end-design at 11. i was raised with stackoverflow. but you know, nothing is the same as it was. now, i am a vibecoder just as tony stark. 
 
-portfolio: noseydewdrop.com
+portfolio: noseydewdrop.com<br>blog: coming soon 
 
-blog: coming soon 
-
-my repos are private now but the products are live. (286 hours % 44.7B tokens :D)
+my repos are private now but the products are live. (286 hours & 44.7B tokens :D)
 
 ### live on the web
 

@@ -3,7 +3,7 @@ i study *llm system design*. behind all my projects, i see layers, parted soluti
 
 portfolio: https://noseydewdrop.com <br>blog: coming soon 
 
-my repos are private now but the products are live. (286 hours & 44.7B tokens :D)
+my repos are private now but the products are live. (286 hours & 44.7B tokens on july :D)
 
 ### complex designs, real engineering
 

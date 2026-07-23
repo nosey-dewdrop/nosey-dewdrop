@@ -1,19 +1,10 @@
-i am <u> DAMLA </u> 
-i used to write clean code between 2020-25. i learned front-end-design at 11. i was raised with stackoverflow. but you know, nothing is the same as it was. now, i am a vibecoder just as tony stark.
+<u> DAMLA </u> 
 
-i don't do projects for curriculum vitae.
-https://nosey-dewdrop.github.io
+noseydewdrop.com
+my repos are private now but the products are live. here they are. (284 hours & 44.7B tokens :D)
 
 
-vi veri veniversum vivus vici
-
-i always spend a lot time on ui-ux design. i am not a tech bro solely, i see cs as an art of maths and logic. so, even in my most complex projects there are lots of different html files and design pivots.
-
-my repos are private now (source is mine), but the products are live. here they are.
-
-### things people can use
-
-- **stitchu** — photograph a dress, get a real sewable pattern to your measurements. on-device. [stitchu.noseydewdrop.com](https://stitchu.noseydewdrop.com) · c++ / wasm / vision
+- **stitchu** - get a sewable pattern by photo or prompt. cpp, wasm, vision. [stitchu.noseydewdrop.com](https://stitchu.noseydewdrop.com) 
 - **gymgyme** — computer-vision trainer in the browser, counts and scores your reps. no video leaves your device. [gymgyme.noseydewdrop.com](https://gymgyme.noseydewdrop.com) · c++ / wasm / mediapipe
 - **ir-globe** — 3d globe mapping international relations, live news, public accuracy benchmark. [ir-globe](https://nosey-dewdrop.github.io/ir-globe/) · html / ml
 - **seviyorsevmiyor** — reads the subtext of a chat, tone and who wants it more. on-device model. [seviyorsevmiyor.noseydewdrop.com](https://seviyorsevmiyor.noseydewdrop.com) · on-device model

@@ -1,4 +1,6 @@
-i used to write clean code between 2020-25. i learned front-end-design at 11. i was raised with stackoverflow. but you know, nothing is the same as it was. now, i am a vibecoder just as tony stark. <br> some people ask me what my dream study area is. it is llm system design. that's why behind all my projects, i see layers, parted solutions, engines talking to each other and orcchestration. and to know what is worth building, you need to build hundreds of products, fail, learn, make new... that's how my life goes nowadays.
+i used to write clean code between 2020-25. i learned front-end-design at 11. i was raised with stackoverflow. but you know, nothing is the same as it was. now, i am a vibecoder just as tony stark. 
+
+i study *llm system design*. behind all my projects, i see layers, parted solutions, engines talking to each other and orchestration. not 50 different universes :=) to know what is worth building, you need to build hundreds of products, fail, learn, make new... that's how my life goes nowadays.
 
 portfolio: noseydewdrop.com<br>blog: coming soon 
 

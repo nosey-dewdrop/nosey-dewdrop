@@ -18,8 +18,8 @@ portfolio: https://noseydewdrop.com <br>blog: https://blog.noseydewdrop.com
 
 ### engines, tools, experiments in development
 
-- **rabadon** - infrastructure that takes routing off the builder so system design stays in focus.
-- **braindot** - personal branding infrastructure.
+- **rabadon** - infrastructure that takes routing off the builder so system design stays in focus. https://nosey-dewdrop.github.io/rabadon/
+- **braindot** - personal branding infrastructure. https://nosey-dewdrop.github.io/braindot/
 - **age-wiz** - age guessing from an image, my own little model. python
 
 ### b2b orders in progress. 

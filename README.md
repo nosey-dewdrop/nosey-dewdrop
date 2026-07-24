@@ -1,9 +1,8 @@
-🎀🦋✨💐💞🤸🏻🌷🌻🐝🐞💃🏻🌈
+🎀damla🦋
+
 i study *llm system design*. behind all my projects, i see layers, parted solutions, engines talking to each other and orchestration. not 50 different universes :=) to know what is worth building, you need to build hundreds of products, fail, learn, make new... that's how my life goes nowadays.
 
 portfolio: https://noseydewdrop.com <br>blog: https://blog.noseydewdrop.com
-
-my repos are private now but the products are live. (286 hours & 44.7B tokens on july :D)
 
 ### complex designs, real engineering
 
@@ -24,7 +23,7 @@ my repos are private now but the products are live. (286 hours & 44.7B tokens on
 - **age-wiz** - age guessing from an image, my own little model. python
 
 ### b2b orders in progress. 
-since i have no internships "arrenged" by my family, i create, find and fight for my own jobs. so, i am not a "pet" of someone. projects i do are for real, for business. not to brag on my cv. :=) 
+since i have no internships "arrenged" by my family, i create, find and fight for my own jobs. so, i am not a "pet" of someone. projects i do are for real, for dreams. :=) 
 - **management for a clinic**
 - **website for a clinic**
 - **bookstore**

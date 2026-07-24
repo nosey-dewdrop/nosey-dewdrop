@@ -1,7 +1,7 @@
 🎀🦋✨💐💞🤸🏻🌷🌻🐝🐞💃🏻🌈
 i study *llm system design*. behind all my projects, i see layers, parted solutions, engines talking to each other and orchestration. not 50 different universes :=) to know what is worth building, you need to build hundreds of products, fail, learn, make new... that's how my life goes nowadays.
 
-portfolio: https://noseydewdrop.com <br>blog: coming soon 
+portfolio: https://noseydewdrop.com <br>blog: https://blog.noseydewdrop.com
 
 my repos are private now but the products are live. (286 hours & 44.7B tokens on july :D)
 
@@ -11,15 +11,6 @@ my repos are private now but the products are live. (286 hours & 44.7B tokens on
 - **gymgyme** - computer vision trainer in the browser, counts and scores your reps. cpp, wasm, mediapipe. [gymgyme.noseydewdrop.com](https://gymgyme.noseydewdrop.com)
 - **ir-globe** - 3d globe of international relations, live news, public benchmark. i made it for a friend who loves world politics. html, ml. [ir-globe.noseydewdrop.com](https://ir-globe.noseydewdrop.com)
 - **musical-improvisation-tool** - play a few notes, it tells you the scale so you can improvise. html. [musicimprov.noseydewdrop.com](https://musicimprov.noseydewdrop.com)
-
-### some wrappers i've made for fun:
-- **kisalafinuzunu** - turkish word game, denizde kum bende laf. typescript. [kisalafinuzunu.noseydewdrop.com](https://kisalafinuzunu.noseydewdrop.com)
-- **seviyorsevmiyor** - reads the subtext of a chat, tone and who wants it more. on device model. [seviyorsevmiyor.noseydewdrop.com](https://seviyorsevmiyor.noseydewdrop.com)
-- **calicocat** - 870+ exercises as a wall of colored words by body region, offline. javascript. [calicocat.noseydewdrop.com](https://calicocat.noseydewdrop.com)
-- **missingsemicolon** - english tech interview practice, 33 sourced topics. typescript. [missingsemicolon.noseydewdrop.com](https://missingsemicolon.noseydewdrop.com)
-- **linc-matik** - mental martial art practice. python, ai. [lincmatik.noseydewdrop.com](https://lincmatik.noseydewdrop.com)
-- **msducky** - a doctor's site, region of the day so patients keep moving. i made it for my mom. html. [msducky.noseydewdrop.com](https://msducky.noseydewdrop.com)
-- **shortstorylong** - english impromptu speaking practice. typescript. [shortstorylong.noseydewdrop.com](https://shortstorylong.noseydewdrop.com)
 
 ### ios and native, in progress
 
@@ -31,6 +22,23 @@ my repos are private now but the products are live. (286 hours & 44.7B tokens on
 - **rabadon** - infrastructure that takes routing off the builder so system design stays in focus.
 - **braindot** - personal branding infrastructure.
 - **age-wiz** - age guessing from an image, my own little model. python
+
+### b2b orders in progress. 
+since i have no internships "arrenged" by my family, i create, find and fight for my own jobs. so, i am not a "pet" of someone. projects i do are for real, for business. not to brag on my cv. :=) 
+- **management for a clinic**
+- **website for a clinic**
+- **bookstore**
+- **coffeestore**
+
+### some wrappers i've made for fun:
+- **kisalafinuzunu** - turkish word game, denizde kum bende laf. typescript. [kisalafinuzunu.noseydewdrop.com](https://kisalafinuzunu.noseydewdrop.com)
+- **seviyorsevmiyor** - reads the subtext of a chat, tone and who wants it more. on device model. [seviyorsevmiyor.noseydewdrop.com](https://seviyorsevmiyor.noseydewdrop.com)
+- **calicocat** - 870+ exercises as a wall of colored words by body region, offline. javascript. [calicocat.noseydewdrop.com](https://calicocat.noseydewdrop.com)
+- **missingsemicolon** - english tech interview practice, 33 sourced topics. typescript. [missingsemicolon.noseydewdrop.com](https://missingsemicolon.noseydewdrop.com)
+- **linc-matik** - mental martial art practice. python, ai. [lincmatik.noseydewdrop.com](https://lincmatik.noseydewdrop.com)
+- **msducky** - a doctor's site, region of the day so patients keep moving. i made it for my mom. html. [msducky.noseydewdrop.com](https://msducky.noseydewdrop.com)
+- **shortstorylong** - english impromptu speaking practice. typescript. [shortstorylong.noseydewdrop.com](https://shortstorylong.noseydewdrop.com)
+
 
 ### data analysis from strangers
 - **eksi_analyzer** - eksisozluk profile analysis, writing style, top words, active hours. python

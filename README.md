@@ -24,8 +24,8 @@ portfolio: https://noseydewdrop.com <br>blog: https://blog.noseydewdrop.com
 
 ### b2b orders in progress. 
 since i have no internships "arrenged" by my family, i create, find and fight for my own jobs. so, i am not a "pet" of someone. projects i do are for real, for dreams. :=) 
-- **management for a clinic**
-- **website for a clinic**
+- **management software for a clinic**
+- **website for another clinic**
 - **bookstore**
 - **coffeestore**
 

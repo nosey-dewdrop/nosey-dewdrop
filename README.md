@@ -4,4 +4,3 @@ i study *llm system design*. behind all my projects, i see layers, parted soluti
 
 https://noseydewdrop.com
 
-_more than 50 projects across ios, cpp, python, java and the web._

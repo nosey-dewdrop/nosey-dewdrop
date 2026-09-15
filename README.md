@@ -16,17 +16,12 @@ gymgyme: pose engine counts and scores every rep, nothing uploaded, web
 ir-globe: 3d globe for international relations, live news feed, web
 calicocat: 870 exercises as a wall of colored words, offline, web
 forget-me-not: letters travel by real distance, istanbul to tokyo is 3.5 days, web
-snailmail: slow letters for university clubs, hand drawn, web
 damla.log: my projects on my phone, tasks ideas bugs versions, ios
-scrapp: digital scrapbook, frame photos and collect memories, ios
-lala-retro: ingredient comparison, users build the database by scanning, ios
 butterfry: food allergen detective, finds what upsets your stomach, web
 sunflower: pomodoro and study timer, ios
 lingolingo: english speaking practice with voice analysis, ios
-inkbee: yks study universe on the meb kazanim spine, web
 kisalafinuzunu: impromptu speaking practice, 2900 real topics, web
 shortstorylong: same in english, 2272 sourced topics, web
-missingsemicolon: interview questions from real sources only, web
 linc-matik: mental toughness trainer, social media criticism simulator, web
 musical-improvisation-tool: play few notes, it tells you the scale, web
 sunny: my first ios app, it reminds you sunscreen

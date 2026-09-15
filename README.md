@@ -5,7 +5,6 @@ i study *llm system design*. behind all my projects, i see layers, parted soluti
 https://noseydewdrop.com
 
 few of my projects. i made them all private because i don't only see similar ideas (we were gifted with thought) but i see projects which are same at design and colour palette which i drew by hand. you can download on app store, use cli or buy items later on.
-
 <br>stitchu: photo or prompt = flat + pattern, sewable, web 
 <br>moonlight: fortune telling tarot, horary (astronomy api, claude api and some statistics), hand drawn, ios
 <br>rabadon: catches your agent's mistake in the move that makes it, won't tell how! hahaaha, cli

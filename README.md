@@ -4,22 +4,20 @@ i study *llm system design*. behind all my projects, i see layers, parted soluti
 
 https://noseydewdrop.com
 
-few of my projects. i made them all private because i don't only see similar ideas (we were gifted with thought) but they are same at design which i drew by hand. so, everything is private. you can download on app store, use cli or buy items later on.
+few of my projects. i made them all private because i don't only see similar ideas (we were gifted with thought) but i see projects which are same at design and colour palette which i drew by hand. you can download on app store, use cli or buy items later on.
 
-stitchu: photo or prompt = flat + pattern, really sewable, web
-moonlight: fortune telling, hand drawn, ios
-rabadon: catches your agent's mistake in the move that makes it, cli
-vibecodedslopware: what is slopware, how you spot it, 54 chapters, tr + en, web
-dewsletter: looks for a job and mails you, with the reason it concerns you, web
-seviyorsevmiyor: subtext of a chat, our own model, nothing leaves your phone, web
-lulumelon: what llms say about a brand, refuses to rank when the sample is thin, python cli
-gymgyme: counts your reps, no video ever leaves your device, web
-ir-globe: 3d globe, the news feed refreshes itself, web
-sunflower: pomodoro, swiftui, ios
-lingolingo: speaking practice, recordings deleted right after, ios
-kisalafinuzunu: impromptu speaking, 2908 topics, none invented by ai, web
-linc-matik: criticism simulator, trains you against it, web
-musical-improvisation-tool: few notes = your scale, web audio api, web
-sunny: sunscreen reminder, weatherapi, ios
+<br>stitchu: photo or prompt = flat + pattern, sewable, web 
+<br>moonlight: fortune telling tarot, horary (astronomy api, claude api and some statistics), hand drawn, ios
+<br>rabadon: catches your agent's mistake in the move that makes it, won't tell how! hahaaha, cli
+<br>vibecodedslopware: what is slopware, how you avoid it, wrote 54 chapters, tr + en, web (product engineering series coming next month maybe?)
+<br>dewsletter: looks for a job and mails you
+<br>seviyorsevmiyor: subtext of a chat, my own model, web
+<br>lulumelon: what llms say about a brand, GEO, python cli
+<br>gymgyme: counts your reps, no video ever leaves your device, web
+<br>ir-globe: 3d globe, the news feed refreshes itself, machine learning, web
+<br>sunflower: pomodoro, drawn by hand and with swiftui, ios
+<br>lingolingo: speaking practice, recordings deleted right after, i used azure, ios
+<br>kisalafinuzunu: impromptu speaking, 2908 topics, none invented by ai, web
+<br>linc-matik: criticism simulator, llm wrapper, web
+<br>musical-improvisation-tool: few notes = your scale, web audio api, web
 
-yes i believe in me, so you believe in you, help me sing it, ma-ma-se, ma-ma-sa, ma-ma-coo-sa

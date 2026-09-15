@@ -9,6 +9,7 @@ few of my projects. i made them all private because i don't only see similar ide
 stitchu: photo or prompt = flat + pattern, really sewable, web
 moonlight: fortune telling, hand drawn, ios
 rabadon: catches your agent's mistake in the move that makes it, cli
+vibecodedslopware: what is slopware, how you spot it, 54 chapters, tr + en, web
 dewsletter: looks for a job and mails you, with the reason it concerns you, web
 seviyorsevmiyor: subtext of a chat, our own model, nothing leaves your phone, web
 lulumelon: what llms say about a brand, refuses to rank when the sample is thin, python cli

@@ -4,7 +4,7 @@ i study *llm system design*. behind all my projects, i see layers, parted soluti
 
 https://noseydewdrop.com
 
-few of my projects. i made them all private because i don't only see similar ideas (we were gifted with thought) but i see projects which are same at design and colour palette which i drew by hand. you can download on app store, use cli or buy items later on.
+few of my projects. i made them all private because i don't only see similar ideas (we were gifted with thought, everyone can have similar ideas) but i see projects which are same at design and colour palette which i drew by hand. you can download on app store, use cli or buy items later on.
 
 <br>stitchu: photo or prompt = flat + pattern, sewable, web 
 <br>moonlight: fortune telling tarot, horary (astronomy api, claude api and some statistics), hand drawn, ios
@@ -20,4 +20,8 @@ few of my projects. i made them all private because i don't only see similar ide
 <br>kisalafinuzunu: impromptu speaking, 2908 topics, none invented by ai, web
 <br>linc-matik: criticism simulator, llm wrapper, web
 <br>musical-improvisation-tool: few notes = your scale, web audio api, web
+
+
+you run and tell your friends that you're leaving me, they say that they don't see what you see in me, you wait a couple months then you gon' see
+you'll never find nobody better than me
 

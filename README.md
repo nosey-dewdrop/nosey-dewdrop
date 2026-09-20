@@ -21,7 +21,3 @@ few of my projects. i made them all private because i don't only see similar ide
 <br>linc-matik: criticism simulator, llm wrapper, web
 <br>musical-improvisation-tool: few notes = your scale, web audio api, web
 
-
-you run and tell your friends that you're leaving me, they say that they don't see what you see in me, you wait a couple months then you gon' see
-you'll never find nobody better than me
-

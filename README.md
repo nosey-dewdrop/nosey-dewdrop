@@ -9,7 +9,7 @@ few of my projects. i made them all private because i don't only see similar ide
 <br>[stitchu](https://stitchu.noseydewdrop.com/): photo or prompt = flat + pattern, sewable, web 
 <br>moonlight: fortune telling tarot, horary (astronomy api, claude api and some statistics), hand drawn, ios
 <br>rabadon: catches your agent's mistake in the move that makes it, won't tell how! hahaaha, cli
-<br>[slopware 101](https://noseydewdrop.com/blog/slopware-101/): what is slopware, how you avoid it, wrote 35 lessons, free, web (product engineering series coming next month maybe?)
+<br>[slopware 101](https://noseydewdrop.com/blog/slopware-101/): what is slopware, how you avoid it, wrote 35 steps, free, web (product engineering series coming next month maybe?)
 <br>[dewsletter](https://nosey-dewdrop.github.io/dewsletter/): looks for a job and mails you
 <br>[seviyorsevmiyor](https://seviyorsevmiyor.noseydewdrop.com/): subtext of a chat, my own model, web
 <br>[lulumelon](https://nosey-dewdrop.github.io/lulumelon/): what llms say about a brand, GEO, python cli
